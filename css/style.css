@@ -2010,7 +2010,9 @@ p {
 }
 
 .features .image img {
-  height: 60px;
+/*  height: 60px;*/
+    width: 80px;
+    height: 80px !important;
 }
 
 .features .image:before {
